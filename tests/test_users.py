@@ -20,7 +20,7 @@ def test_title(api_client):
 
     assert response.status_code == 200
     data = response.json()
-    assert data["title"] == "delectus aut aute"
+    assert data["title"] == "delectus aut autem"
 
 def test_create_post(api_client):
     payload = {
