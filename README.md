@@ -1,0 +1,1 @@
+![CI](https://github.com/yourusername/api-test-framework/actions/workflows/test.yml/badge.svg)
